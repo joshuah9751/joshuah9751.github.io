@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Joshua Hernandez's Plog Post # 3 [Contracts]"
+title: "Joshua Hernandez's Plog Post Contracts"
 date: 2018-1-11
 ---
 
@@ -52,4 +52,4 @@ mystery :: (team1 :: String,
 
 
 
-.0
+
