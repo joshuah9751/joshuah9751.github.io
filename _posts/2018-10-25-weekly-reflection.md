@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Joshua Hernandez's Plog Post # 2"
+title: "JOSHUA'S BLOG"
 date: 2018-10-25
 ---
 
