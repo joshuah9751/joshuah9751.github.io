@@ -23,8 +23,6 @@ date: 2018-12-21
 
     Well, Instead of seperately typing down the code, I placed-image, I saw from a peer and I used that information to make my own flag, and one of my other peers had a type of blue that I was trying to look for so I asked and that is how I found the blue I was looking for.
 
-<!--- Delete this comment and add your writing -->
-
 
 ## Explain your code.
  
