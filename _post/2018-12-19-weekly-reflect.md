@@ -16,7 +16,7 @@ date: 2018-12-21
 -   Insert an image that your program currently produces. 
 
 * * *
-![Flag](/images/swedish flag.png)
+![Flag](/images/swedish-flag.png)
 * * *
 
 ## Describe your process.
