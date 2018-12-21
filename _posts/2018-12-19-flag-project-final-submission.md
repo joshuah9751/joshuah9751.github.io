@@ -30,15 +30,7 @@ date: 2018-12-21
 * * *
 
 ```
-BR = rectangle(width, height, "solid", "royal-blue")
-
-YR = rectangle(width / 8, height, "solid", "gold") 
-
-YR2 = rectangle(width, height / 5, "solid", "gold")
-
-BR-YR2 = place-image(YR2, width / 2, height / 2, BR)
-
-BR-YR2-YR = place-image(YR, width / 3, height / 2, BR-YR2)
+Insert 10-15 line code section here _then delete this instruction_
 ```
 
 * * *
